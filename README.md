@@ -10,3 +10,4 @@
 
 <p> <h2> More options available than you can imagine </h2> </p>
 
+![](img/ContextMenu.jpg)
