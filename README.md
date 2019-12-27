@@ -12,7 +12,7 @@ Version 2019 (Build 6.2.2) C#
 
 <p> <h2> More options available than you can imagine </h2> </p>
 
-
+![](img/ContextMenu2.jpg)
 
 <p> <h2> Info: </h2> </p>
 <p>Name of the project: "Notepad 2000"</p>
