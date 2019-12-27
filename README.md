@@ -2,7 +2,7 @@
 
 Version 2019 (Build 6.2.2) C#
 <p>A Notepad with a look of Windows 2000</p>
-<p><h2>Made simble to use and powerful</h2> </p>
+<p><h2>Made simple to use and powerful</h2> </p>
 
 ![](Notepad2000.jpg)
 <br>
