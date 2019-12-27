@@ -1,0 +1,5 @@
+You need NetFramework 3.5
+
+In case there is a error in designer view you may need to download Guna Framework 
+
+Visual studio 2019
