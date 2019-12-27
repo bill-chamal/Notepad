@@ -7,3 +7,6 @@
 <p> <h2> Multifunctional and user friendly </h2> </p>
 
 ![](img/Notepad2000ShowFuctions.jpg)
+
+<p> <h2> More options available than you can imagine </h2> </p>
+
