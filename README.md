@@ -21,5 +21,5 @@ Version 2019 (Build 6.2.2) C#
 <p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=21">Net.Framework 3.5</a> </p>
 <p>other Framework you may need: <a href="https://github.com/sobatdata/Guna.UI-Framework-Lib.git">Guna</a> </p>
 <p>Size of the project: 29.1 MB (30,593,856 bytes) </p>
-<p>Author Bill Chamalidis</p>
+<p>Author: Bill Chamalidis</p>
 <p>Copyright (GNU). All rights Reserved</p>
