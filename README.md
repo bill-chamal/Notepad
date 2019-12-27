@@ -23,4 +23,4 @@ Version 2019 (Build 6.2.2) C#
 <p>other Framework you may need: <a href="https://github.com/sobatdata/Guna.UI-Framework-Lib.git">Guna</a> </p>
 <p>Size of the project: 29.1 MB (30,593,856 bytes) </p>
 <p>Author: Bill Chamalidis</p>
-<p>Copyright (GNU). All rights Reserved</p>
+<p>Copyright (<a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU</a>). All rights Reserved</p>
