@@ -5,3 +5,4 @@
 ![](Notepad2000.jpg)
 <br>
 <p>Multifunctional and user friendly </p>
+![](img/Notepad2000ShowFuctions.jpg)
