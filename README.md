@@ -25,4 +25,8 @@ Version 2019 (Build 6.2.2) C#
 <p><h2>license:</h2></p>
 <p>Author: Bill Chamalidis</p>
 <p>Copyright (c). All rights Reserved</p>
-<p><a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU</a>)</p>
+<p>This program is free software: you can redistribute it and/or modify
+    it under the terms of the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU</a> General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    any later version.</p>
+<p><a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU</a></p>
