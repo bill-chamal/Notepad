@@ -14,15 +14,19 @@ Version 2019 (Build 6.2.2) C#
 
 ![](img/ContextMenu2.jpg)
 
+
 <p> <h2> Info: </h2> </p>
-<p>Name of the project: "Notepad 2000"</p>
-<p>Current version: 2019 (Build 6.2.2) </p>
-<p>C-Sharp</p>
-<p>Created in Visual Studio 2019 </p>
-<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=21">Net.Framework 3.5</a> </p>
-<p>other Framework you may need: <a href="https://github.com/sobatdata/Guna.UI-Framework-Lib.git">Guna</a> </p>
-<p>Size of the project: 29.1 MB (30,593,856 bytes) </p>
+
+- <p>Name of the project: "Notepad 2000"</p>
+- <p>Current version: 2019 (Build 6.2.2) </p>
+- <p>C-Sharp</p>
+- <p>Created in Visual Studio 2019 </p>
+- <p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=21">Net.Framework 3.5</a> </p>
+- <p>other Framework you may need: <a href="https://github.com/sobatdata/Guna.UI-Framework-Lib.git">Guna</a> </p>
+- <p>Size of the project: 29.1 MB (30,593,856 bytes) </p>
+
 <p><h2>license:</h2></p>
+
 <p>Author: Bill Chamalidis</p>
 <p>Copyright (c). All rights Reserved</p>
 <p>This program is free software: you can redistribute it and/or modify
