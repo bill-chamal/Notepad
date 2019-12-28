@@ -16,7 +16,7 @@ Version 2019 (Build 6.2.2) C#
 
 <p> <h2> Info: </h2> </p>
 <p>Name of the project: "Notepad 2000"</p>
-<p>Current version: 2019 6.2.2 </p>
+<p>Current version: 2019 (Build 6.2.2) </p>
 <p>C-Sharp</p>
 <p>Created in Visual Studio 2019 </p>
 <p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=21">Net.Framework 3.5</a> </p>
