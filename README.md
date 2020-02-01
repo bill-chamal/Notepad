@@ -14,6 +14,11 @@ Version 2019 (Build 6.2.3) C#
 
 ![](img/ContextMenu2.jpg)
 
+<p> <h2> What's new: </h2> </p>
+- <p>In the version 6.2.3 added:</p>
+- - <p>New Encryption / Decryption method with password</p>
+- - <p>Bugs fixed</p>
+- - <p>Changed theme buttons</p>
 
 <p> <h2> Info: </h2> </p>
 
