@@ -4,7 +4,7 @@ Version 2019 (Build 6.2.4) C#
 <p>A Notepad with a look of Windows 2000</p>
 <p><h2>Made simple to use and powerful</h2> </p>
 
-![](Notepad2000.jpg)
+![](img/Notepad2000.jpg)
 <br>
 <p> <h2> Multifunctional and user friendly </h2> </p>
 
@@ -13,6 +13,11 @@ Version 2019 (Build 6.2.4) C#
 <p> <h2> More options available than you can imagine </h2> </p>
 
 ![](img/ContextMenu2.jpg)
+
+<p> <h2> High Encryption </h2> </p>
+
+![](img/Encry_Text.jpg)
+
 
 <p> <h2> What's new: </h2> </p>
 

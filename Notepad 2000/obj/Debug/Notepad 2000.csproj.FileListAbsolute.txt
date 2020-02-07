@@ -1,0 +1,44 @@
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.exe
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.pdb
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form1.resources
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Properties.Resources.resources
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csproj.GenerateResource.cache
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csproj.CoreCompileInputs.cache
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.exe
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.pdb
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form_Save_Changes.resources
+C:\Users\basil\Documents\Visual Studio Net App C#\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csprojAssemblyReference.cache
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.exe
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.pdb
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form1.resources
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form_Save_Changes.resources
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Properties.Resources.resources
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csproj.GenerateResource.cache
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.exe
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.pdb
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.SendFeedback.resources
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.exe.config
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csprojAssemblyReference.cache
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.exe.manifest
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.application
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.TrustInfo.xml
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.exe.manifest
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.application
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\bin\Debug\Guna.UI.dll
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csproj.CopyComplete
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form_TermsOfLic.resources
+C:\Users\basil\Desktop\New folder\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form_WEBBrowser.resources
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csprojAssemblyReference.cache
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form1.resources
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form_Save_Changes.resources
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.SendFeedback.resources
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form_TermsOfLic.resources
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Form_WEBBrowser.resources
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad_2000.Properties.Resources.resources
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csproj.GenerateResource.cache
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.exe
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.pdb
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.exe.config
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.exe
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\bin\Debug\Notepad 2000.pdb
+C:\Users\basil\OneDrive\Έγγραφα\Visual Studio Net App C#\Notepad 2000 I.DEA\Notepad 2000\Notepad 2000\obj\Debug\Notepad 2000.csproj.CopyComplete

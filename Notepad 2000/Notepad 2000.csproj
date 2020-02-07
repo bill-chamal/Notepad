@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CC0D5457-A285-4E28-A464-E55DD8F84B04}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Notepad_2000</RootNamespace>
+    <AssemblyName>Notepad 2000</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>C:\Users\basil\Desktop\New folder\Notepad 2000\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <InstallUrl>http://localhost/Notepad_2000/</InstallUrl>
+    <UpdateUrl>http://localhost/Notepad_2000/</UpdateUrl>
+    <MinimumRequiredVersion>1.0.0.4</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>11</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>NotePad-Ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B34C5A7FF89A77E1911684D7631CD9EF2734F1F3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Notepad 2000_2_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Downloads\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib\.net 3.5\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Encryption_Pass_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encryption_Pass_Form.Designer.cs">
+      <DependentUpon>Encryption_Pass_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Find.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Find.Designer.cs">
+      <DependentUpon>Form_Find.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Replace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Replace.Designer.cs">
+      <DependentUpon>Form_Replace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Save_Changes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Save_Changes.Designer.cs">
+      <DependentUpon>Form_Save_Changes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SendFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SendFeedback.Designer.cs">
+      <DependentUpon>Form_SendFeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TermsOfLic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TermsOfLic.Designer.cs">
+      <DependentUpon>Form_TermsOfLic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_WEBBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_WEBBrowser.Designer.cs">
+      <DependentUpon>Form_WEBBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Encryption_Pass_Form.resx">
+      <DependentUpon>Encryption_Pass_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Find.resx">
+      <DependentUpon>Form_Find.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Replace.resx">
+      <DependentUpon>Form_Replace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Save_Changes.resx">
+      <DependentUpon>Form_Save_Changes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SendFeedback.resx">
+      <DependentUpon>Form_SendFeedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TermsOfLic.resx">
+      <DependentUpon>Form_TermsOfLic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_WEBBrowser.resx">
+      <DependentUpon>Form_WEBBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Notepad 2000_1_TemporaryKey.pfx" />
+    <None Include="Notepad 2000_2_TemporaryKey.pfx" />
+    <None Include="Notepad 2000_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D-Solid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximaze-WindowState.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minemize-WindowState.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NotePad-Logo-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win-400px.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradient bar-BlackWhite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NotePad-Logo-Image-Desaturated.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Key.txt" />
+    <Content Include="NotePad-Ico.ico" />
+    <None Include="Resources\Azur Corp2.png" />
+    <None Include="Resources\Azur Corp.png" />
+    <None Include="Resources\Azure_Logo.png" />
+    <None Include="Resources\CloseIMGFinal.png" />
+    <None Include="Resources\Notepad2000-grad-new2.png" />
+    <None Include="Resources\Notepad2000-grad-new.png" />
+    <None Include="Resources\Notepad2000-grad-BW.png" />
+    <None Include="Resources\Notepad2000-grad.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
